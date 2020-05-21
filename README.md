@@ -2,6 +2,9 @@
 
 This repo is just designed to be a place where you can view my current learning path
 
+## State of it right now
+![learning path](./path.png)
+
 ## The order of things
 
 The order of the things that I learnt does not really matter that much. This is just my journey and what I feel I need to work on.
@@ -25,8 +28,11 @@ It is more for me so I do not loose track of the links, resources and things I t
 
 ## How to use it
 
+[Here](https://docs.google.com/spreadsheets/d/1AE_pTdam834bY3tTOUYwoBClUhHo1IqwUCSte5XpACc/edit?usp=sharing) is the google doc with the list of things that are currently being done. There is also a tab on the sheet for notes, which is an informal list of notes taken while watching courses etc. These notes could also be just the name of something.
+
+[Here](https://drive.google.com/file/d/1goXerxrahl2MmfpI_cyDzN8Kk1rEbc3o/view?usp=sharing) Is a diagram of the topics grouped by subject / tech
+
 Many of the learning courses are done on [Front end Masters](http://frontendmasters.com). I would really advise getting an account there if you want to stay up to date with all things in the front end world.
 
-The diagram is made using draw.io but you can get a plugin to even open it in VS code if you would like
-
 The list of the things I have done contains the tasks I did, the topic that I covered and some links so they should be self explanatory.
+
