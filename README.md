@@ -30,7 +30,7 @@ It is more for me so I do not loose track of the links, resources and things I t
 
 [Here](https://docs.google.com/spreadsheets/d/1AE_pTdam834bY3tTOUYwoBClUhHo1IqwUCSte5XpACc/edit?usp=sharing) is the google doc with the list of things that are currently being done. There is also a tab on the sheet for notes, which is an informal list of notes taken while watching courses etc. These notes could also be just the name of something.
 
-[Here](https://drive.google.com/file/d/1goXerxrahl2MmfpI_cyDzN8Kk1rEbc3o/view?usp=sharing) Is a diagram of the topics grouped by subject / tech
+[Here](https://drive.google.com/file/d/1goXerxrahl2MmfpI_cyDzN8Kk1rEbc3o/view?usp=sharing) Is a diagram of the topics grouped by subject / tech. You need to open the diagram to be able to click on the links for the resources.
 
 Many of the learning courses are done on [Front end Masters](http://frontendmasters.com). I would really advise getting an account there if you want to stay up to date with all things in the front end world.
 
